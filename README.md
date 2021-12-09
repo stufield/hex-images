@@ -5,22 +5,21 @@ Here is a repository for the hex sticker images used in the `tidyverse`.
 
 They are subject to change but are accurate as of July 2019.
 
-![](dplyr.png "dplyr")
-![](purrr.png "purrr")
-![](tibble.png "tibble")
-![](tidyposterior.png "tidyposterior")
-![](devtools.png "devtools")
-![](ggplot2.png "ggplot2")
-![](tidyr.png "tidyr")
-![](testthat.png "testthat")
-![](readr.png "readr")
-![](plumber.png "plumber")
-![](shiny.png "shiny")
-![](forcats.png "forcats")
-![](broom.png "broom")
-![](magrittr.png "magrittr")
-![](roxygen2.png "roxygen2")
-![](tidyverse.png "tidyverse")
+<img src="dplyr.png" width="150"/> <img src="purrr.png" width="150"/>
+<img src="tibble.png" width="150"/>
+<img src="tidyposterior.png" width="150"/>
+<img src="devtools.png" width="150"/>
+<img src="ggplot2.png" width="150"/>
+<img src="tidyr.png" width="150"/>
+<img src="testthat.png" width="150"/>
+<img src="readr.png" width="150"/>
+<img src="plumber.png" width="150"/>
+<img src="shiny.png" width="150"/>
+<img src="forcats.png" width="150"/>
+<img src="magrittr.png" width="150"/>
+<img src="broom.png" width="150"/>
+<img src="roxygen2.png" width="150"/>
+<img src="tidyverse.png" width="150"/>
 
 --------
 
